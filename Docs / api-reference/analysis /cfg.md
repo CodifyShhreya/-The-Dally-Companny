@@ -1,3 +1,3 @@
- ::: wake.analysis.cfg
+ ::: the dally.analysis.cfg
     options:
         members_order: source
